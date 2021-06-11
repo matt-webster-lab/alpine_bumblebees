@@ -1,0 +1,6 @@
+TrimmomaticPE: Started with arguments: -threads 8 bombus_balteatus_abdomen.left.fq.gz bombus_balteatus_abdomen.right.fq.gz bombus_balteatus_abdomen/trimmomatic/bombus_balteatus_abdomen.left_paired.fq.gz bombus_balteatus_abdomen/trimmomatic/bombus_balteatus_abdomen.left_unpaired.fq.gz bombus_balteatus_abdomen/trimmomatic/bombus_balteatus_abdomen.right_paired.fq.gz bombus_balteatus_abdomen/trimmomatic/bombus_balteatus_abdomen.right_unpaired.fq.gz ILLUMINACLIP:/sw/bioinfo/Trimmomatic-0.32/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 33863699 Both Surviving: 31305700 (92.45%) Forward Only Surviving: 2236439 (6.60%) Reverse Only Surviving: 215720 (0.64%) Dropped: 105840 (0.31%)
+TrimmomaticPE: Completed successfully
